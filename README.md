@@ -8,13 +8,13 @@
 
 [<img align="left"  width="30px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/facebook.png" alt="Facebook"/>][facebook]
 
-<a href="https://www.linkedin.com/in/rafe-uddaraj-1230b7215/">
+<a href="https://www.linkedin.com/in/rafe-uddaraj-1230b7215/" target="_blank">
     <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png" alt="Linkedin"/>
 </a>
 <br />
 <br />
 
-<a href="https://codeforces.com/profile/Rafe_Uddaraj">
+<a href="https://codeforces.com/profile/Rafe_Uddaraj1" target="_blank">
    <img src="https://raw.githubusercontent.com/rahat-khan-pathan/ct-stats/main/output/max_rating.svg" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=Rafe_Uddaraj&label=Profile%20views&color=0e75b6&style=flat" alt="Rafe Uddaraj" />
