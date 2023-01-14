@@ -17,12 +17,12 @@
 <a href="https://codeforces.com/profile/Rafe_Uddaraj">
    <img src="https://raw.githubusercontent.com/rahat-khan-pathan/ct-stats/main/output/max_rating.svg" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=rahat-khan-pathan&label=Profile%20views&color=0e75b6&style=flat" alt="Rahat Khan Pathan" />
+<img src="https://komarev.com/ghpvc/?username=Rafe_Uddaraj&label=Profile%20views&color=0e75b6&style=flat" alt="Rafe Uddaraj" />
 
 <b>&#128200; Competitive Programming</b>
 <br />
 <p float="left">
-    <img height="230px" src="https://raw.githubusercontent.com/rahat-khan-pathan/ct-stats/main/output/light_card.svg" alt="Statistics"/>
+    <img height="230px" src="https://raw.githubusercontent.com/rafeuddaraj/ct-stats/main/output/light_card.svg" alt="Statistics"/>
 </p>
 <br/>
 <br/>
@@ -48,13 +48,6 @@
 
 ---
   ### :zap: GitHub Stats
-  <br/>
-  <img align="center" alt="Rahat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rahat-khan-pathan&show_icons=true&theme=tokyonight" />
-<br />
-
----
-  
-  <img align="center"  alt="Sakib's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahat-khan-pathan&show_icons=true" />
 
 
-[facebook]: https://www.facebook.com/rahatkhanpathan.1999/
+[facebook]: https://www.facebook.com/rafeuddaraj/
