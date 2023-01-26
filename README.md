@@ -14,7 +14,7 @@
 <br />
 <br />
 
-<a href="[https://codeforces.com/profile/Rafe_Uddaraj](https://codeforces.com/profile/Rafe_Uddaraj)" target="_blank">
+<a href="https://codeforces.com/profile/Rafe_Uddaraj" target="_blank">
    <img src="https://raw.githubusercontent.com/rahat-khan-pathan/ct-stats/main/output/max_rating.svg" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=Rafe_Uddaraj&label=Profile%20views&color=0e75b6&style=flat" alt="Rafe Uddaraj" />
