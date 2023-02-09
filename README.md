@@ -27,7 +27,7 @@
 <br/>
 <br/>
 
-[![jetsai's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=jetsai&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)]
+[![jetsai's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=rafeuddaraj1=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
 
 ### Languages and Tools:
 
