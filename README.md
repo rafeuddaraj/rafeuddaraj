@@ -1,52 +1,22 @@
-### Hi there, I'm Rafe Uddaraj 👋
-
-## I'm a Learner, Problem Solver!!
-
-- 🥅 2021 Goals: Learn CSE Fundamental, C and C++ And Start Problem Solving
-- 🥅 2022 Goals: Learn ML
-### Connect with me:
-
-[<img align="left"  width="30px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/facebook.png" alt="Facebook"/>][facebook]
-
-<a href="https://www.linkedin.com/in/rafe-uddaraj-1230b7215/" target="_blank">
-    <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png" alt="Linkedin"/>
-</a>
-<br />
-<br />
-
-<a href="https://codeforces.com/profile/Rafe_Uddaraj" target="_blank">
-   <img src="https://raw.githubusercontent.com/rahat-khan-pathan/ct-stats/main/output/max_rating.svg" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=Rafe_Uddaraj&label=Profile%20views&color=0e75b6&style=flat" alt="Rafe Uddaraj" />
-
-<b>&#128200; Competitive Programming</b>
-<br />
-<p float="left">
-    <img height="230px" src="https://raw.githubusercontent.com/rafeuddaraj/ct-stats/main/output/light_card.svg" alt="Statistics"/>
-</p>
-<br/>
-<br/>
-
-[![<USERNAME>'s LeetCode Stats](https://leetcode-stats.vercel.app/api?username=rafeuddaraj1&theme=dark)](https://github.com/JeremyTsaii/leetcode-stats)
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<br />
-<br />
-
----
-  ### :zap: GitHub Stats
+# 💫 About Me:
+Greetings! 👋 I'm Rafe Uddaraj, a Co-Founder at Altrazen, and I wear multiple hats in the tech world as a Contain Creator, Programmer, Full Stack Web Developer, Problem solver, Entrepreneur, and educator.<br><br>🔭 I’m currently working on:<br>As we speak, I'm deeply engaged in developing innovative and practical solutions at Altrazen. I'm working on exciting containerization projects that aim to revolutionize how we deploy and manage applications in the cloud.<br><br>👯 I’m looking to collaborate on:<br>I'm always on the lookout for like-minded individuals who are passionate about technology and love to explore new possibilities. If you have a project or an idea that you think we could team up on, let's connect and make something remarkable together!<br><br>🤝 I’m looking for help with:<br>While I'm well-versed in various aspects of tech, there's always room for growth. If you're experienced in cloud technologies, DevOps, or have expertise in scaling web applications, I'd greatly appreciate your insights and guidance.<br><br>🌱 I’m currently learning:<br>In this rapidly evolving tech landscape, continuous learning is key. Currently, I'm diving into the realms of machine learning and AI. I'm excited to leverage these cutting-edge technologies to create even more impactful solutions.<br><br>💬 Ask me about:<br>Whether it's web development, programming languages, containerization strategies, or startup experiences, feel free to reach out and ask me anything! I'm more than happy to share my knowledge and experiences.<br><br>⚡ Fun fact:<br>Beyond my love for coding, I'm an avid adventure enthusiast. When I'm not crafting code, you'll likely find me exploring the great outdoors, whether it's hiking in the mountains or trying out adrenaline-pumping activities!<br><br>Feel free to explore my GitHub repositories, and let's connect to shape the future of technology together.
 
 
-[facebook]: https://www.facebook.com/rafeuddaraj1/
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rafeuddaraj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafeuddaraj) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rafeuddaraj) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@learn-with-rafe) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rafeuddaraj&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rafeuddaraj&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafeuddaraj&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rafeuddaraj&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rafeuddaraj&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+
