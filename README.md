@@ -1,22 +1,82 @@
-# 💫 About Me:
-Greetings! 👋 I'm Rafe Uddaraj, a Co-Founder at Altrazen, and I wear multiple hats in the tech world as a Contain Creator, Programmer, Full Stack Web Developer, Problem solver, Entrepreneur, and educator.<br><br>🔭 I’m currently working on:<br>As we speak, I'm deeply engaged in developing innovative and practical solutions at Altrazen. I'm working on exciting containerization projects that aim to revolutionize how we deploy and manage applications in the cloud.<br><br>👯 I’m looking to collaborate on:<br>I'm always on the lookout for like-minded individuals who are passionate about technology and love to explore new possibilities. If you have a project or an idea that you think we could team up on, let's connect and make something remarkable together!<br><br>🤝 I’m looking for help with:<br>While I'm well-versed in various aspects of tech, there's always room for growth. If you're experienced in cloud technologies, DevOps, or have expertise in scaling web applications, I'd greatly appreciate your insights and guidance.<br><br>🌱 I’m currently learning:<br>In this rapidly evolving tech landscape, continuous learning is key. Currently, I'm diving into the realms of machine learning and AI. I'm excited to leverage these cutting-edge technologies to create even more impactful solutions.<br><br>💬 Ask me about:<br>Whether it's web development, programming languages, containerization strategies, or startup experiences, feel free to reach out and ask me anything! I'm more than happy to share my knowledge and experiences.<br><br>⚡ Fun fact:<br>Beyond my love for coding, I'm an avid adventure enthusiast. When I'm not crafting code, you'll likely find me exploring the great outdoors, whether it's hiking in the mountains or trying out adrenaline-pumping activities!<br><br>Feel free to explore my GitHub repositories, and let's connect to shape the future of technology together.
+<!-- Generated from rafeuddaraj.me by `npm run build` (src/lib/github-readme.ts). Edit the site content, not this file. -->
 
+<a href="https://www.rafeuddaraj.me"><img src="https://www.rafeuddaraj.me/og/index.png" alt="Rafe Uddaraj, Software Engineer" width="100%"></a>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rafeuddaraj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafeuddaraj) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rafeuddaraj) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@learn-with-rafe) 
+I'm a software engineer who creates simple and effective solutions for real-world problems.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rafeuddaraj&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rafeuddaraj&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafeuddaraj&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Based in Dhaka, Bangladesh. Research and Development Executive at [Learn With Sumit](https://learnwithsumit.com).
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rafeuddaraj&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+**[Book a 30 minute call](https://calendly.com/rafeuddaraj2/30min)**&nbsp;&nbsp;&nbsp;[sayhi@rafeuddaraj.me](mailto:sayhi@rafeuddaraj.me)
 
+[Website](https://www.rafeuddaraj.me)&nbsp;&nbsp;&nbsp;[Blog](https://www.rafeuddaraj.me/blog)&nbsp;&nbsp;&nbsp;[YouTube](https://www.youtube.com/@rafeuddaraj)&nbsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/mrafeuddaraj)&nbsp;&nbsp;&nbsp;[X](https://x.com/rafeuddaraj)
 
+### Selected work
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rafeuddaraj&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+| Project | What it is |
+| --- | --- |
+| [CST Club Management System](https://www.rafeuddaraj.me/projects/cst-club-management)<br><sub>Commercial</sub> | A real-time, role-based platform that runs every part of a student tech club: members, events, workshops, assessments and payments. |
+| [Student Clearance Management](https://www.rafeuddaraj.me/projects/student-clearance-management)<br><sub>Commercial</sub> | A centralized, role-based system that automates student clearance with real-time status tracking and department-wise control. |
+| [2TalkLink](https://www.rafeuddaraj.me/projects/2talklink)<br><sub>Live</sub> | A SaaS platform for creating e-cards, with full CMS capabilities, Stripe subscriptions and real-time data management. |
+| [Safe House](https://www.rafeuddaraj.me/projects/safe-house)<br><sub>Commercial</sub> | A real estate platform with dynamic property listings, interactive maps and Zustand-based state management. |
 
+[All projects](https://www.rafeuddaraj.me/projects)
+
+### Latest writing
+
+| Date | Article |
+| --- | --- |
+| Sep 08, 2026 | [Engineering Roadmap: Why 'Exactly Once' Delivery Is Mostly a Lie](https://www.rafeuddaraj.me/blog/exactly-once-delivery-myth-distributed-systems) |
+| Sep 06, 2026 | [How Cursor Pagination Actually Works Under the Hood](https://www.rafeuddaraj.me/blog/cursor-pagination-under-the-hood) |
+| Sep 04, 2026 | [How Database Connection Pools Actually Work Under the Hood (A Deep Dive)](https://www.rafeuddaraj.me/blog/how-database-connection-pools-work-under-the-hood) |
+
+[All articles](https://www.rafeuddaraj.me/blog)&nbsp;&nbsp;&nbsp;[Articles in Bangla](https://www.rafeuddaraj.me/bn/blog)&nbsp;&nbsp;&nbsp;[RSS](https://www.rafeuddaraj.me/rss.xml)
+
+### Latest videos
+
+| Date | Video |
+| --- | --- |
+| Jul 18, 2026 | [JavaScript Promise Under The Hood: Build a Custom Promise Engine from Scratch](https://www.youtube.com/watch?v=fKQEVonpxcM) |
+| Jun 25, 2026 | [How JavaScript Sort Works Under the Hood? \| Bubble Sort JS Bangla Tutorial](https://www.youtube.com/watch?v=fSDuP__GzH4) |
+
+[YouTube channel](https://www.youtube.com/@rafeuddaraj)
+
+### More about me
+
+<details>
+<summary><b>Skills</b></summary>
+
+| Area | Skills |
+| --- | --- |
+| AI engineering | AI Engineering, Prompt Engineering, Context Engineering, RAG, Embeddings, Vector Databases |
+| Agents and automation | AI Agents, MCP Servers, n8n, Hermes Agent, OpenClaw |
+| Languages | TypeScript, JavaScript, Python, C++, C |
+| Backend | Node.js, NestJS, Express, GraphQL |
+| Frontend | React, Next.js, Astro, Tailwind CSS, Redux |
+| Data and backend platforms | PostgreSQL, MongoDB, Prisma, Redis, Supabase, Appwrite, Strapi |
+| Architecture | System Design, Software Architecture, Distributed Systems, API Design |
+| Platform and DevOps | Docker, Git, Cloudflare, Coolify, Dokploy |
+
+</details>
+
+<details>
+<summary><b>Experience</b></summary>
+
+| Role | Period |
+| --- | --- |
+| **Research and Development Executive**<br>[Learn With Sumit](https://learnwithsumit.com) | Sep 2025 - Present |
+| **President**<br>[CST Club, Dhaka Polytechnic Institute](https://www.cst-club.org) | Mar 2025 - Apr 2026 |
+| **Support Engineer, React Accelerator Course**<br>[Learn With Sumit](https://learnwithsumit.com) | Oct 2024 - Sep 2025 |
+
+</details>
+
+<details>
+<summary><b>Recognition and education</b></summary>
+
+- **1st place, Software Testing**, National selection round, international skills competition held in China, 2025 ([Amar Desh](https://eamardesh.com/2025-09-10/edition-2/8/83628))
+- **Diploma in Computer Science and Technology**, [Dhaka Polytechnic Institute](https://dhaka.polytech.gov.bd), 2022 - 2026
+
+</details>
+
+---
+
+<sub>Full profile, CV and every article at [rafeuddaraj.me](https://www.rafeuddaraj.me). This README is generated from the site.</sub>
