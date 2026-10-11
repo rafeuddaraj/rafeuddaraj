@@ -10,6 +10,14 @@ Based in Dhaka, Bangladesh. Research and Development Executive at [Learn With Su
 
 [Website](https://www.rafeuddaraj.me)&nbsp;&nbsp;&nbsp;[Blog](https://www.rafeuddaraj.me/blog)&nbsp;&nbsp;&nbsp;[YouTube](https://www.youtube.com/@rafeuddaraj)&nbsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/mrafeuddaraj)&nbsp;&nbsp;&nbsp;[X](https://x.com/rafeuddaraj)
 
+### Get to know me
+
+<a href="https://www.youtube.com/watch?v=sE-uloXMEMc"><img src="https://i.ytimg.com/vi/sE-uloXMEMc/maxresdefault.jpg" alt="Watch on YouTube: How one question made me a software engineer (7:11)" width="100%"></a>
+
+**[How one question made me a software engineer](https://www.youtube.com/watch?v=sE-uloXMEMc)**<br>
+School never clicked for me, until a computer showed up in class five with a question that never left: why does it work like this? Here is how it shaped the way I think, build and teach.<br>
+<sub>7:11 / English</sub>
+
 ### Selected work
 
 | Project | What it is |
@@ -73,7 +81,7 @@ Based in Dhaka, Bangladesh. Research and Development Executive at [Learn With Su
 <summary><b>Recognition and education</b></summary>
 
 - **1st place, Software Testing**, National selection round, international skills competition held in China, 2025 ([Amar Desh](https://eamardesh.com/2025-09-10/edition-2/8/83628))
-- **Diploma in Computer Science and Technology**, [Dhaka Polytechnic Institute](https://dhaka.polytech.gov.bd), 2022 - 2026
+- **Diploma in Computer Science and Technology**, [Dhaka Polytechnic Institute](https://dhaka.polytech.gov.bd), 2022 - 2026 (started at [Mymensingh Polytechnic Institute](https://mpi.polytech.gov.bd), 1st semester, then transferred)
 
 </details>
 
