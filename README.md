@@ -43,8 +43,8 @@ School never clicked for me, until a computer showed up in class five with a que
 
 | Date | Video |
 | --- | --- |
-| Jul 18, 2026 | [JavaScript Promise Under The Hood: Build a Custom Promise Engine from Scratch](https://www.youtube.com/watch?v=fKQEVonpxcM) |
-| Jun 25, 2026 | [How JavaScript Sort Works Under the Hood? \| Bubble Sort JS Bangla Tutorial](https://www.youtube.com/watch?v=fSDuP__GzH4) |
+| Oct 16, 2026 | [10 মানে কি আসলেই দশ? Computer-এর Number System Explained \| বাংলা](https://www.youtube.com/watch?v=T6ta_gj7HOY) |
+| Oct 11, 2026 | [My Story, From the Back of the Class \| Rafe Uddaraj](https://www.youtube.com/watch?v=sE-uloXMEMc) |
 
 [YouTube channel](https://www.youtube.com/@rafeuddaraj)
 
@@ -58,7 +58,7 @@ School never clicked for me, until a computer showed up in class five with a que
 | AI engineering | AI Engineering, Prompt Engineering, Context Engineering, RAG, Embeddings, Vector Databases |
 | Agents and automation | AI Agents, MCP Servers, n8n, Hermes Agent, OpenClaw |
 | Languages | TypeScript, JavaScript, Python, C++, C |
-| Backend | Node.js, NestJS, Express, GraphQL |
+| Backend | Node.js, NestJS, Express, Hono, GraphQL |
 | Frontend | React, Next.js, Astro, Tailwind CSS, Redux |
 | Data and backend platforms | PostgreSQL, MongoDB, Prisma, Redis, Supabase, Appwrite, Strapi |
 | Architecture | System Design, Software Architecture, Distributed Systems, API Design |
