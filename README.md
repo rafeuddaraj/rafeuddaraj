@@ -57,8 +57,8 @@ School never clicked for me, until a computer showed up in class five with a que
 | --- | --- |
 | AI engineering | AI Engineering, Prompt Engineering, Context Engineering, RAG, Embeddings, Vector Databases |
 | Agents and automation | AI Agents, MCP Servers, n8n, Hermes Agent, OpenClaw |
-| Languages | TypeScript, JavaScript, Python, C++, C |
-| Backend | Node.js, NestJS, Express, Hono, GraphQL |
+| Languages | TypeScript, JavaScript, Python, PHP, C++, C |
+| Backend | Node.js, NestJS, Express, Hono, Laravel, GraphQL |
 | Frontend | React, Next.js, Astro, Tailwind CSS, Redux |
 | Data and backend platforms | PostgreSQL, MongoDB, Prisma, Redis, Supabase, Appwrite, Strapi |
 | Architecture | System Design, Software Architecture, Distributed Systems, API Design |
