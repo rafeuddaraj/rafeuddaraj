@@ -33,9 +33,9 @@ School never clicked for me, until a computer showed up in class five with a que
 
 | Date | Article |
 | --- | --- |
+| Nov 05, 2026 | [Why AI Agents Double Charge: Crash-Safe Tool Execution Under the Hood](https://www.rafeuddaraj.me/blog/ai-agent-double-charge-crash-safe-tool-execution) |
 | Sep 08, 2026 | [Engineering Roadmap: Why 'Exactly Once' Delivery Is Mostly a Lie](https://www.rafeuddaraj.me/blog/exactly-once-delivery-myth-distributed-systems) |
 | Sep 06, 2026 | [How Cursor Pagination Actually Works Under the Hood](https://www.rafeuddaraj.me/blog/cursor-pagination-under-the-hood) |
-| Sep 04, 2026 | [How Database Connection Pools Actually Work Under the Hood (A Deep Dive)](https://www.rafeuddaraj.me/blog/how-database-connection-pools-work-under-the-hood) |
 
 [All articles](https://www.rafeuddaraj.me/blog)&nbsp;&nbsp;&nbsp;[Articles in Bangla](https://www.rafeuddaraj.me/bn/blog)&nbsp;&nbsp;&nbsp;[RSS](https://www.rafeuddaraj.me/rss.xml)
 
